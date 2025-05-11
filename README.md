@@ -1,2 +1,2 @@
 # Greenhome Apps
-##### Berisikan aplikasi 'greenhome untuk menghitung kebutuhan energi
+##### Berisikan aplikasi 'greenhome' untuk menghitung kebutuhan energi
