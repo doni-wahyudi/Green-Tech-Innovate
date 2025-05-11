@@ -1,1 +1,2 @@
-# Green-Tech-Innovate
+# Greenhome Apps
+##### Berisikan aplikasi 'greenhome untuk menghitung kebutuhan energi
